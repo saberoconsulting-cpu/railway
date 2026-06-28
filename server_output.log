@@ -1,0 +1,12 @@
+◇ injected env (7) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+⏳ Intentando conectar a la base de datos...
+   Host: tramway.proxy.rlwy.net
+   Port: 50974
+   DB:   railway
+   User: root
+   Pass: ********
+✅ Conexión a la base de datos establecida correctamente.
+✅ Modelos sincronizados con la base de datos.
+🚀 Servidor corriendo en el puerto 3001
+^C
